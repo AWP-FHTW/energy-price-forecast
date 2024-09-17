@@ -4,13 +4,7 @@
 ## Project Overview
 This project aims to predict energy prices for the day-ahead market to optimize the revenue-earning potential of a battery asset. The notebook is organized into three main sections: exploratory data analysis, implementation of a predictive model, and asset optimization approaches.
 
-## Files in the Project
-1. **Energy_price_prediction.ipynb**:
-   - This Jupyter Notebook provides a detailed walkthrough of the entire process. It includes sections on:
-     - Importing libraries and loading datasets.
-     - Exploratory Data Analysis (EDA) to understand trends and seasonalities within the data.
-     - Implementation of predictive models using XGBoost and Prophet to forecast energy prices.
-     - Approaches for optimizing the battery asset based on the predictions.
+
 
 ## How to Use
 1. **Data Preparation, Analysis, and Model Testing**:
